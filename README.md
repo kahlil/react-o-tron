@@ -6,7 +6,7 @@ So far I just [this](https://dev.to/nickparsons/takeaways-on-building-a-react-ba
 
 The goal is to refine this and always keep it up to date.
 
-The setup is already very powerful and straight forward. Just use this repository as a template, clone your new repo, `yarn` all the things and then `yarn start`.
+The setup is already very powerful and straight forward. Just [use this repository as a template](https://github.com/kahlil/react-o-tron/generate), clone your new repo, `yarn` all the things and then `yarn start`.
 
 ## License
 
