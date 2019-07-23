@@ -1,5 +1,7 @@
 # REACT-O-TRON ⚛︎
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kahlil/react-o-tron.svg)](https://greenkeeper.io/)
+
 > The ultimate template for creating an Electron app with Create-React-App.
 
 So far I just stole [this](https://dev.to/nickparsons/takeaways-on-building-a-react-based-app-with-electron-1df2) and updated the dependencies and added greenkeeper to the repo.
