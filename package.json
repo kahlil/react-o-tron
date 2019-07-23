@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "homepage": "./",
-  "author": "Kahlil Lechelt <hello@kahlil.info>",
+  "author": "Your Name <your@email.com>",
   "license": "MIT",
   "main": "public/electron.js",
   "dependencies": {
