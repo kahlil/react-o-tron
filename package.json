@@ -8,7 +8,7 @@
   "main": "public/electron.js",
   "dependencies": {
     "electron-is-dev": "1.1.0",
-    "react": "16.8.6",
+    "react": "16.9.0",
     "react-dev-utils": "9.0.1",
     "react-dom": "16.8.6",
     "react-scripts": "3.0.1",
