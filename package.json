@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "concurrently": "4.1.1",
-    "cross-env": "5.2.0",
+    "cross-env": "6.0.2",
     "electron": "6.0.2",
     "electron-builder": "21.1.5",
     "electron-devtools-installer": "2.2.4",
