@@ -12,7 +12,7 @@
     "react-dev-utils": "9.0.4",
     "react-dom": "16.9.0",
     "react-scripts": "3.1.2",
-    "version-bump-prompt": "5.0.4"
+    "version-bump-prompt": "5.0.5"
   },
   "devDependencies": {
     "concurrently": "4.1.2",
