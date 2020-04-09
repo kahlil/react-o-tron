@@ -21,7 +21,7 @@
     "electron": "7.1.1",
     "electron-devtools-installer": "2.2.4",
     "electron-publisher-s3": "20.17.2",
-    "wait-on": "3.3.0"
+    "wait-on": "4.0.2"
   },
   "scripts": {
     "dev": "yarn react-scripts start",
